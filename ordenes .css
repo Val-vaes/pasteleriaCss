@@ -1,0 +1,17 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+.titulo{
+   text-align: center;
+   text-decoration-color: brown ;
+}
+body{
+    background-color:goldenrod;
+}
+
+.sabor{
+    text-decoration-line: underline;
+    text-decoration-color: brown;
+    text-decoration-thickness: 3px;
+}
